@@ -18,9 +18,9 @@ email: kim@sanddollarlabs.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sand Dollar Labs - Copyright 2019
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "sdl_blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  kim@sanddollarlabs.com
 
 # Build settings
 markdown: kramdown
